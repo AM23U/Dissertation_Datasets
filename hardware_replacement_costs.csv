@@ -1,0 +1,101 @@
+Device_ID,Device_Type,Replacement_Cost,Labor_Cost,Replacement_Time_Hours,Location
+42fd6634-db6b-4840-893f-3ebc14ec9542,Jump Host,2610.59,196.41,6.8,Hahnbury
+5a88735f-5aa7-48be-9112-312feb3723f4,Virtual Private Network (VPN) Server,4755.0,180.05,1.7,West Caseyton
+d02043f3-3778-4261-96ec-052a71b0c9e3,Field I/O,4041.74,175.12,4.2,East Kevinfort
+6a67b73f-5cb8-4226-8e6b-4dcee2f2fb1b,Programmable Logic Controller (PLC),2502.31,127.44,1.9,South Miguelberg
+eaa8f305-7475-4dbd-be87-2a1c3a88d6fa,Application Server,2099.03,78.77,5.6,Howardview
+701d6bd5-96e5-42aa-b17f-15bf53f87819,Field I/O,4688.84,148.18,4.9,Catherinebury
+3a4bd675-6b98-423f-a502-b4bfa128d254,Remote Terminal Unit (RTU),3036.65,188.82,7.5,South Williamfort
+1bdd02a9-c431-4431-a97c-1e4f00112d06,Intelligent Electronic Device (IED),3563.73,190.56,2.4,Michaelshire
+eb9454b1-7b56-47e9-8700-1188f55cc744,Programmable Logic Controller (PLC),583.26,137.64,3.3,Flemingshire
+99a1ba81-23b9-46e4-b5d7-4215d823fb91,Data Historian,3236.53,161.15,7.6,East Taylor
+e7f8a310-bd8d-42c9-8bd7-a6ec8fea9084,Programmable Logic Controller (PLC),4836.79,81.29,4.1,New Kevin
+415c0d45-202f-412a-bde2-635bed977d86,Router,4045.81,199.04,7.0,Joneston
+0a45e7fa-f027-4b88-b10f-24192c639354,Field I/O,2454.51,137.21,4.5,North Amy
+1272fa7b-1084-4a1e-9c9e-b643988aec87,Application Server,3690.55,76.33,3.4,Michaelview
+0cab1826-f9ef-41e4-8140-969cf299d240,Remote Terminal Unit (RTU),3071.55,135.88,4.4,Port Kimtown
+b93e493d-b5ba-4ece-8742-31a231f49f68,Remote Terminal Unit (RTU),3481.56,113.19,1.1,East Katherine
+2ff23473-9a03-480f-9704-643602a4609d,Application Server,3588.56,60.22,4.6,Alvaradotown
+a1ac5bd4-3c18-4a9d-b1d5-4caa7d55de97,Data Gateway,2333.18,57.5,3.2,North Meganbury
+9247eced-965d-4e5f-abd5-7d649fb22978,Intelligent Electronic Device (IED),2682.45,151.33,3.4,Christinafurt
+e5754627-e7ea-40c7-9753-daaba4ec9b17,Control Server,4388.06,61.71,7.9,Ryanchester
+cb1d8b57-24b9-43e2-829a-c468d79071ea,Field I/O,3852.37,53.28,7.8,Lake Randyfort
+faffb0b1-5cbf-47e4-a7c5-92ad27efef29,Workstation,628.53,110.13,2.0,Stanleyborough
+9e81e1b4-4d9e-4f36-899c-207241d5ec24,Router,2347.6,83.67,6.3,South Matthew
+d4e15493-9b4c-41d9-91a3-1b70cfb86d78,Programmable Logic Controller (PLC),3432.3,136.13,8.0,Lewischester
+2bdaa217-9c3f-4cee-be93-5c4baa32543d,Workstation,4935.0,166.46,7.7,Jeremychester
+af52120e-c748-48d7-aa86-f2c1c011f1f3,Jump Host,1582.28,191.49,7.0,Stanleyview
+58a17ce1-138a-44c7-8722-9d83949a3ad2,Virtual Private Network (VPN) Server,1133.92,191.9,4.3,East Katelynland
+24110483-ee65-46c5-b697-0d83d1806c75,Field I/O,3336.84,161.02,5.9,Cynthiaside
+a6189bbc-5e64-4d25-a1bb-f8ec2147992e,Application Server,1550.09,100.8,5.3,Christopherburgh
+fa502f48-c2d7-4673-a999-9e6c70993d5d,Workstation,1957.43,145.24,7.4,Richardchester
+a1ca0bde-69db-44e1-a98f-2da41f23f09e,Programmable Logic Controller (PLC),3194.63,185.28,5.9,West Jessica
+8c334fe0-1e84-47b0-955f-796b839a82db,Intelligent Electronic Device (IED),1375.85,190.11,2.0,West Loritown
+7ba3c38c-41a5-42e2-abf1-a3046415381d,Data Historian,4398.98,90.34,6.0,Brownfurt
+7e46bc68-825a-4467-aa20-3fabf0ba3b36,Programmable Logic Controller (PLC),4268.81,164.15,4.1,South Kevin
+cb6920c3-1876-470b-abab-73f0d0fbc600,Router,2944.74,196.43,3.4,Lake Seanland
+eac5e749-097a-4831-827e-ea1967b2bcc2,Application Server,2555.69,188.18,3.9,Port Autumnview
+238493d9-280b-4e97-af64-aab52e748ed8,Application Server,4331.73,104.69,7.0,Thompsonport
+b3c06251-5536-4672-a43f-e1deee4242a7,Virtual Private Network (VPN) Server,549.59,104.0,6.5,West Keith
+55af94ea-1504-40d5-921e-57745835402e,Application Server,3337.54,63.04,2.0,Lozanotown
+6f55462e-4d46-48a0-a703-9f217ea8a3a6,Programmable Logic Controller (PLC),3077.64,189.93,5.7,New Jennifer
+cb08cb00-270f-44f0-9bb3-eda32affa6ea,Programmable Logic Controller (PLC),1086.41,110.79,1.6,Millerchester
+85fde719-7ce2-4e50-a17d-3fcd4e4854e0,Safety Controller,1409.78,95.27,1.4,Stephanieburgh
+37e73ab4-ea8e-4d02-9e9a-7caf1f060015,Human-Machine Interface (HMI),1266.74,121.44,4.3,West Melissamouth
+5637c552-0370-4445-9417-3b9fafa6ebb0,Data Gateway,683.45,57.09,6.7,Lake Heather
+b0e06277-ae51-4619-ad46-c789cb27999c,Remote Terminal Unit (RTU),2811.51,80.04,3.5,West Donna
+6b7acc8c-5713-4312-8582-b1b1e50edb55,Safety Controller,1586.92,144.21,1.4,Brownberg
+a6ee4e77-b5c6-47c2-97f0-7ec8d7448b69,Human-Machine Interface (HMI),4248.2,90.85,4.2,South Williamburgh
+69cc03e0-ab4a-4246-9e5a-d05f18025d11,Intelligent Electronic Device (IED),1442.76,151.07,6.7,Port David
+bea2c6c9-a982-4f3d-a620-54196cf137c9,Data Gateway,3631.26,86.53,5.1,South Derek
+03b02216-dc14-4a65-9916-9728aee1a811,Virtual Private Network (VPN) Server,2252.59,173.33,2.7,Grahamchester
+731453c1-023c-4b1c-a80a-33051fab64a9,Data Historian,4654.12,96.33,1.0,Stephanietown
+d3adf84e-0c80-4834-974e-41278a5af4b4,Virtual Private Network (VPN) Server,2529.76,177.96,7.0,Port Deborah
+1524b3b6-ad68-4718-af00-032eafbf01cd,Data Gateway,4835.29,130.56,4.3,Haileyland
+8ffb74b0-1092-490e-a62d-d7091fafd3b0,Router,3074.51,68.83,2.5,East Sierramouth
+978aff94-8f7e-41c6-9663-ffe7e0789173,Jump Host,1687.14,134.22,2.5,East Sonya
+fdbbbb8b-96f4-4179-8180-680e1f65f52f,Data Historian,3391.46,185.44,5.8,Hutchinsonview
+87cf64dd-9843-49c8-91a8-6755553a23ed,Workstation,1217.59,167.1,3.8,Kennethmouth
+435ac09b-98b9-4a92-b2a0-255c51af44e9,Control Server,4665.1,170.59,3.7,Andrewtown
+f0e94164-62aa-4148-9736-779f6150a2f6,Data Historian,4214.3,102.71,1.6,Timothyland
+e0b0643a-837c-4240-b953-377166ee41cd,Router,2567.18,70.93,1.2,New Michael
+1ecb477c-815c-42ff-8c30-10bf6877a579,Data Historian,1511.47,129.36,4.2,West Michaelberg
+dc26767d-5b27-4c22-8d6a-2a80c3aab55e,Virtual Private Network (VPN) Server,1067.79,183.14,6.8,New Markchester
+7445c3b7-d87a-45f8-9562-6394d396ffca,Data Gateway,1126.96,105.93,4.8,Port Tiffanymouth
+517ba7bd-1a3e-45c3-8f4b-9c0afd3a7ff9,Control Server,3959.46,193.94,4.2,Smithburgh
+db2fe8f5-e3bf-459f-99a6-6aa713580778,Programmable Logic Controller (PLC),3759.38,66.42,1.8,New Holly
+c27b1c0e-3b34-461f-bcaa-618be78f42ce,Router,4886.44,82.86,6.9,Lozanoside
+47c20e26-8ca7-41d7-9262-f84ed9779cad,Virtual Private Network (VPN) Server,4662.67,55.84,5.1,Port Ashleystad
+4c3d715e-04f4-4706-8e14-c13520e1d613,Application Server,1011.67,57.02,7.5,Monicaside
+86159c0d-12bd-4f3f-a669-2a71e7550cc9,Application Server,4367.71,116.45,4.0,East Elizabeth
+6201da58-075a-44f7-bef3-6beb06fd6666,Remote Terminal Unit (RTU),2525.25,116.0,3.3,South Kristinaport
+5183b416-b15c-41e3-a004-ee4b41d9f623,Application Server,4934.46,134.93,5.9,Justinberg
+9282d525-d22b-4a29-bb1c-815aaf43af94,Remote Terminal Unit (RTU),4725.69,148.99,5.7,Anthonyport
+aebfda6f-f162-426d-afa0-206896888c42,Remote Terminal Unit (RTU),3838.89,164.45,2.7,South Michelle
+7aaa6b3b-faec-4ffa-a7ba-5333891b90eb,Safety Controller,1370.28,169.51,3.2,East Suzanne
+7f429ea3-f1f0-4d2e-a093-49670a7d6757,Control Server,2105.25,135.53,6.8,Davishaven
+1facd944-a56f-4320-ad1f-fbc039452ea9,Application Server,4987.26,196.13,6.1,Crystalfort
+8c1e1ac0-c991-4695-86f8-4afccdf19748,Human-Machine Interface (HMI),543.03,107.62,6.7,East Virginia
+1c910781-35ba-44b3-a44e-50865cb4f7b1,Jump Host,3288.89,113.45,5.8,New Luisland
+b491ecb7-64de-439b-8d25-a64b4160db45,Safety Controller,4535.34,118.42,5.6,Thomastown
+26819d12-d06b-478f-820f-4cd1ec572af4,Application Server,1690.19,108.74,7.6,Davidfort
+5e4c9a85-bdfd-4b1a-9579-04950d51d259,Router,1344.13,104.63,3.6,Lake Johnland
+6c48b40d-d05e-4e39-9d00-f37a159afe5e,Intelligent Electronic Device (IED),4767.89,185.95,1.8,Christopherborough
+f382c57a-31df-49af-8233-b02790f27c91,Virtual Private Network (VPN) Server,699.23,72.14,3.5,Boonechester
+7a78e8f7-74b3-4ad1-9839-20ce50a0651a,Control Server,3457.93,80.86,3.0,Port Jennifer
+4557c810-0809-4f0b-be5d-d25444942ccd,Intelligent Electronic Device (IED),4301.17,133.26,3.0,Timothymouth
+f6ab1ed9-3040-4ce3-8375-bd2f354cbedd,Jump Host,4458.52,97.0,4.8,New Connieville
+cfea8118-bcf7-4286-b308-aeababcf375f,Safety Controller,2401.9,194.53,7.7,New Tonyabury
+3c27d27b-ff7d-4993-9ab4-346bad950f7d,Data Gateway,2429.69,68.66,1.0,Matthewmouth
+7f5e8945-3644-40f7-ab48-6424427596df,Field I/O,4784.65,198.31,7.8,Katiehaven
+d0a6b09b-7a8d-4ab7-b81d-b8a978eb8bb9,Jump Host,2611.59,153.33,2.8,New David
+cf37cef9-a984-4621-96ce-4fe5352aa7c0,Safety Controller,1492.45,135.26,4.1,Valenzuelastad
+17199dec-b024-4fd9-a060-222e2bed2127,Field I/O,1738.93,121.08,6.0,Greerview
+1734e03e-c8e0-4e83-9169-f661a759b415,Virtual Private Network (VPN) Server,4851.51,164.09,1.4,Stephentown
+d893dc1c-a761-4337-a79a-8a00aa6b7873,Jump Host,3956.83,111.24,2.8,South Jennifer
+d1360e38-9ae5-47a1-9250-75996a1bd464,Safety Controller,2825.18,85.55,6.6,Jeffreybury
+f9e5b424-d39b-4f66-9bce-6ebe4a7ceb45,Programmable Logic Controller (PLC),2496.2,107.66,5.6,Dennisside
+b607934a-143b-4ede-8ede-0c7252e1d76f,Jump Host,2997.65,95.49,2.4,West Meganstad
+25205716-62e0-4673-8ccf-8943fc2a5f1f,Control Server,2817.9,130.67,5.5,Huffmantown
+2a03d829-1def-4aaf-97f2-80ac4c5f5144,Intelligent Electronic Device (IED),3083.69,169.17,4.1,West Justinport
+42f714a0-0107-4934-80e8-08017856d114,Human-Machine Interface (HMI),2384.73,198.5,2.0,North Evelyn
