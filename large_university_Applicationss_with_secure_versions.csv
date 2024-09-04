@@ -1,0 +1,101 @@
+Asset ID,Applications,Programming Languages,Libraries,Extensions,Applications_Version,Programming_Language_Version,Library_Version
+42fd6634-db6b-4840-893f-3ebc14ec9542,"Custom Gateway Software 1.3.2, Log4j 2.14.1",Embedded C,OpenSSL,Protocol Buffers,"Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A",Embedded C N/A,OpenSSL 1.1.1k
+5a88735f-5aa7-48be-9112-312feb3723f4,PLC Control Logic 1.5.3,"C#, Python",IOS Libraries,,PLC Control Logic 1.5.3 N/A,"C# N/A, Python N/A",IOS Libraries 5.4.0
+d02043f3-3778-4261-96ec-052a71b0c9e3,Safety Control Software 3.2.8,Ladder Logic,"Log4j, Protocol Buffers",Embedded Extensions,Safety Control Software 3.2.8 N/A,Ladder Logic N/A,"Log4j 2.14.1, Protocol Buffers 3.15.8"
+6a67b73f-5cb8-4226-8e6b-4dcee2f2fb1b,Router Firmware 12.4,"C, Python","Log4j, Protocol Buffers",RTOS Extensions,Router Firmware 12.4 N/A,"C N/A, Python N/A","Log4j 2.14.1, Protocol Buffers 3.15.8"
+eaa8f305-7475-4dbd-be87-2a1c3a88d6fa,IED Control Software 2.1.7,Shell Script,IOS Libraries,,IED Control Software 2.1.7 N/A,Shell Script N/A,IOS Libraries 5.4.0
+701d6bd5-96e5-42aa-b17f-15bf53f87819,"Data Historian Software 5.6.0, Log4j 2.14.1",C,"Log4j, JDBC",,"Data Historian Software 5.6.0 N/A, Log4j 2.14.1 N/A",C N/A,"Log4j 2.14.1, JDBC 8.0.25"
+3a4bd675-6b98-423f-a502-b4bfa128d254,PLC Control Logic 1.5.3,Shell Script,"Log4j, JDBC",,PLC Control Logic 1.5.3 N/A,Shell Script N/A,"Log4j 2.14.1, JDBC 8.0.25"
+1bdd02a9-c431-4431-a97c-1e4f00112d06,Router Firmware 12.4,"Java, SQL","Log4j, Spring Framework",Protocol Buffers,Router Firmware 12.4 N/A,"Java N/A, SQL N/A","Log4j 2.14.1, Spring Framework 5.3.8"
+eb9454b1-7b56-47e9-8700-1188f55cc744,IED Control Software 2.1.7,"Java, SQL",.NET Framework,RTOS Extensions,IED Control Software 2.1.7 N/A,"Java N/A, SQL N/A",.NET Framework 4.8
+99a1ba81-23b9-46e4-b5d7-4215d823fb91,"RTU Control Software 6.3.1, Log4j 2.14.1","Java, Python",RTOS Libraries,Embedded Extensions,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","Java N/A, Python N/A",RTOS Libraries N/A
+e7f8a310-bd8d-42c9-8bd7-a6ec8fea9084,"RTU Control Software 6.3.1, Log4j 2.14.1",Ladder Logic,"Log4j, DNP3",Embedded Extensions,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A",Ladder Logic N/A,"Log4j 2.14.1, DNP3 1.0.1"
+415c0d45-202f-412a-bde2-635bed977d86,PLC Control Logic 1.5.3,"Java, SQL",IOS Libraries,,PLC Control Logic 1.5.3 N/A,"Java N/A, SQL N/A",IOS Libraries 5.4.0
+0a45e7fa-f027-4b88-b10f-24192c639354,"OpenVPN 2.5.1, Log4j 2.14.1","C#, Python",Embedded Libraries,"mod_ssl, mod_rewrite","OpenVPN 2.5.1 N/A, Log4j 2.14.1 N/A","C# N/A, Python N/A",Embedded Libraries N/A
+1272fa7b-1084-4a1e-9c9e-b643988aec87,PLC Control Logic 1.5.3,"C, Python",.NET Framework,,PLC Control Logic 1.5.3 N/A,"C N/A, Python N/A",.NET Framework 4.8
+0cab1826-f9ef-41e4-8140-969cf299d240,"Custom Gateway Software 1.3.2, Log4j 2.14.1","Python, PowerShell",RTOS Libraries,,"Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A","Python N/A, PowerShell N/A",RTOS Libraries N/A
+b93e493d-b5ba-4ece-8742-31a231f49f68,PLC Control Logic 1.5.3,C,"Log4j, JDBC",RTOS Extensions,PLC Control Logic 1.5.3 N/A,C N/A,"Log4j 2.14.1, JDBC 8.0.25"
+2ff23473-9a03-480f-9704-643602a4609d,"Engineering Software 10.3.4, Log4j 2.14.1",C,Embedded Libraries,,"Engineering Software 10.3.4 N/A, Log4j 2.14.1 N/A",C N/A,Embedded Libraries N/A
+a1ac5bd4-3c18-4a9d-b1d5-4caa7d55de97,"Custom Gateway Software 1.3.2, Log4j 2.14.1",Embedded C,Modbus Libraries,Embedded Extensions,"Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A",Embedded C N/A,Modbus Libraries 1.2.2
+9247eced-965d-4e5f-abd5-7d649fb22978,IED Control Software 2.1.7,"C, Python",.NET Framework,,IED Control Software 2.1.7 N/A,"C N/A, Python N/A",.NET Framework 4.8
+e5754627-e7ea-40c7-9753-daaba4ec9b17,"Apache HTTP Server 2.4.48, Log4j 2.14.1, MySQL 8.0.25",Ladder Logic,"Log4j, DNP3",,"Apache HTTP Server 2.4.48 N/A, Log4j 2.14.1 N/A, MySQL 8.0.25 N/A",Ladder Logic N/A,"Log4j 2.14.1, DNP3 1.0.1"
+cb1d8b57-24b9-43e2-829a-c468d79071ea,Safety Control Software 3.2.8,"Java, Python",Paramiko,,Safety Control Software 3.2.8 N/A,"Java N/A, Python N/A",Paramiko 2.8.0
+faffb0b1-5cbf-47e4-a7c5-92ad27efef29,Safety Control Software 3.2.8,"C#, Python","Log4j, Protocol Buffers",RTOS Extensions,Safety Control Software 3.2.8 N/A,"C# N/A, Python N/A","Log4j 2.14.1, Protocol Buffers 3.15.8"
+9e81e1b4-4d9e-4f36-899c-207241d5ec24,IED Control Software 2.1.7,Ladder Logic,RTOS Libraries,,IED Control Software 2.1.7 N/A,Ladder Logic N/A,RTOS Libraries N/A
+d4e15493-9b4c-41d9-91a3-1b70cfb86d78,"Custom Gateway Software 1.3.2, Log4j 2.14.1",C,Paramiko,Embedded Extensions,"Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A",C N/A,Paramiko 2.8.0
+2bdaa217-9c3f-4cee-be93-5c4baa32543d,"Data Historian Software 5.6.0, Log4j 2.14.1",Embedded C,"Log4j, JDBC",,"Data Historian Software 5.6.0 N/A, Log4j 2.14.1 N/A",Embedded C N/A,"Log4j 2.14.1, JDBC 8.0.25"
+af52120e-c748-48d7-aa86-f2c1c011f1f3,"RTU Control Software 6.3.1, Log4j 2.14.1","C, Python",Paramiko,RTOS Extensions,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","C N/A, Python N/A",Paramiko 2.8.0
+58a17ce1-138a-44c7-8722-9d83949a3ad2,"SCADA System 3.1.4, Log4j 2.14.1","C, Python",IOS Libraries,Embedded Extensions,"SCADA System 3.1.4 N/A, Log4j 2.14.1 N/A","C N/A, Python N/A",IOS Libraries 5.4.0
+24110483-ee65-46c5-b697-0d83d1806c75,"Engineering Software 10.3.4, Log4j 2.14.1","C, Python","Log4j, DNP3",Protocol Buffers,"Engineering Software 10.3.4 N/A, Log4j 2.14.1 N/A","C N/A, Python N/A","Log4j 2.14.1, DNP3 1.0.1"
+a6189bbc-5e64-4d25-a1bb-f8ec2147992e,PLC Control Logic 1.5.3,"Python, PowerShell",OpenSSL,Protocol Buffers,PLC Control Logic 1.5.3 N/A,"Python N/A, PowerShell N/A",OpenSSL 1.1.1k
+fa502f48-c2d7-4673-a999-9e6c70993d5d,"Remote Access Tools 1.0.0, Log4j 2.14.1","Python, PowerShell","Log4j, DNP3",Embedded Extensions,"Remote Access Tools 1.0.0 N/A, Log4j 2.14.1 N/A","Python N/A, PowerShell N/A","Log4j 2.14.1, DNP3 1.0.1"
+a1ca0bde-69db-44e1-a98f-2da41f23f09e,"Remote Access Tools 1.0.0, Log4j 2.14.1","Java, Python","Log4j, Protocol Buffers",,"Remote Access Tools 1.0.0 N/A, Log4j 2.14.1 N/A","Java N/A, Python N/A","Log4j 2.14.1, Protocol Buffers 3.15.8"
+8c334fe0-1e84-47b0-955f-796b839a82db,Safety Control Software 3.2.8,Ladder Logic,Safety Libraries,"mod_ssl, mod_rewrite",Safety Control Software 3.2.8 N/A,Ladder Logic N/A,Safety Libraries 6.5.0
+7ba3c38c-41a5-42e2-abf1-a3046415381d,"HMI Software 4.8.0, Log4j 2.14.1","Java, SQL",Matplotlib,Protocol Buffers,"HMI Software 4.8.0 N/A, Log4j 2.14.1 N/A","Java N/A, SQL N/A",Matplotlib 3.4.3
+7e46bc68-825a-4467-aa20-3fabf0ba3b36,"Engineering Software 10.3.4, Log4j 2.14.1",Embedded C,Embedded Libraries,,"Engineering Software 10.3.4 N/A, Log4j 2.14.1 N/A",Embedded C N/A,Embedded Libraries N/A
+cb6920c3-1876-470b-abab-73f0d0fbc600,Router Firmware 12.4,"Python, PowerShell",Matplotlib,,Router Firmware 12.4 N/A,"Python N/A, PowerShell N/A",Matplotlib 3.4.3
+eac5e749-097a-4831-827e-ea1967b2bcc2,PLC Control Logic 1.5.3,"C#, Python",Safety Libraries,Protocol Buffers,PLC Control Logic 1.5.3 N/A,"C# N/A, Python N/A",Safety Libraries 6.5.0
+238493d9-280b-4e97-af64-aab52e748ed8,"Apache HTTP Server 2.4.48, Log4j 2.14.1, MySQL 8.0.25",C,Matplotlib,,"Apache HTTP Server 2.4.48 N/A, Log4j 2.14.1 N/A, MySQL 8.0.25 N/A",C N/A,Matplotlib 3.4.3
+b3c06251-5536-4672-a43f-e1deee4242a7,PLC Control Logic 1.5.3,"Java, Python",.NET Framework,Embedded Extensions,PLC Control Logic 1.5.3 N/A,"Java N/A, Python N/A",.NET Framework 4.8
+55af94ea-1504-40d5-921e-57745835402e,"Data Historian Software 5.6.0, Log4j 2.14.1","C#, VBScript",Matplotlib,,"Data Historian Software 5.6.0 N/A, Log4j 2.14.1 N/A","C# N/A, VBScript N/A",Matplotlib 3.4.3
+6f55462e-4d46-48a0-a703-9f217ea8a3a6,"Data Historian Software 5.6.0, Log4j 2.14.1","Java, Python",Paramiko,RTOS Extensions,"Data Historian Software 5.6.0 N/A, Log4j 2.14.1 N/A","Java N/A, Python N/A",Paramiko 2.8.0
+cb08cb00-270f-44f0-9bb3-eda32affa6ea,Safety Control Software 3.2.8,"Java, SQL",.NET Framework,,Safety Control Software 3.2.8 N/A,"Java N/A, SQL N/A",.NET Framework 4.8
+85fde719-7ce2-4e50-a17d-3fcd4e4854e0,"SCADA System 3.1.4, Log4j 2.14.1","C#, Python",Matplotlib,RTOS Extensions,"SCADA System 3.1.4 N/A, Log4j 2.14.1 N/A","C# N/A, Python N/A",Matplotlib 3.4.3
+37e73ab4-ea8e-4d02-9e9a-7caf1f060015,"RTU Control Software 6.3.1, Log4j 2.14.1",C,"Log4j, Spring Framework",,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A",C N/A,"Log4j 2.14.1, Spring Framework 5.3.8"
+5637c552-0370-4445-9417-3b9fafa6ebb0,Safety Control Software 3.2.8,"Python, PowerShell","Log4j, JDBC",Protocol Buffers,Safety Control Software 3.2.8 N/A,"Python N/A, PowerShell N/A","Log4j 2.14.1, JDBC 8.0.25"
+b0e06277-ae51-4619-ad46-c789cb27999c,"RTU Control Software 6.3.1, Log4j 2.14.1","C#, VBScript",Embedded Libraries,Embedded Extensions,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","C# N/A, VBScript N/A",Embedded Libraries N/A
+6b7acc8c-5713-4312-8582-b1b1e50edb55,"OpenVPN 2.5.1, Log4j 2.14.1",Ladder Logic,"Log4j, DNP3",Embedded Extensions,"OpenVPN 2.5.1 N/A, Log4j 2.14.1 N/A",Ladder Logic N/A,"Log4j 2.14.1, DNP3 1.0.1"
+a6ee4e77-b5c6-47c2-97f0-7ec8d7448b69,"Custom Gateway Software 1.3.2, Log4j 2.14.1",Shell Script,RTOS Libraries,Embedded Extensions,"Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A",Shell Script N/A,RTOS Libraries N/A
+69cc03e0-ab4a-4246-9e5a-d05f18025d11,"Custom Gateway Software 1.3.2, Log4j 2.14.1","C#, Python",RTOS Libraries,Protocol Buffers,"Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A","C# N/A, Python N/A",RTOS Libraries N/A
+bea2c6c9-a982-4f3d-a620-54196cf137c9,"Engineering Software 10.3.4, Log4j 2.14.1","Java, Python",Modbus Libraries,,"Engineering Software 10.3.4 N/A, Log4j 2.14.1 N/A","Java N/A, Python N/A",Modbus Libraries 1.2.2
+03b02216-dc14-4a65-9916-9728aee1a811,Router Firmware 12.4,"C, Python","Log4j, JDBC",,Router Firmware 12.4 N/A,"C N/A, Python N/A","Log4j 2.14.1, JDBC 8.0.25"
+731453c1-023c-4b1c-a80a-33051fab64a9,"SCADA System 3.1.4, Log4j 2.14.1","Java, SQL",.NET Framework,"mod_ssl, mod_rewrite","SCADA System 3.1.4 N/A, Log4j 2.14.1 N/A","Java N/A, SQL N/A",.NET Framework 4.8
+d3adf84e-0c80-4834-974e-41278a5af4b4,"RTU Control Software 6.3.1, Log4j 2.14.1","Python, PowerShell",.NET Framework,,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","Python N/A, PowerShell N/A",.NET Framework 4.8
+1524b3b6-ad68-4718-af00-032eafbf01cd,"RTU Control Software 6.3.1, Log4j 2.14.1","C#, VBScript",IOS Libraries,,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","C# N/A, VBScript N/A",IOS Libraries 5.4.0
+8ffb74b0-1092-490e-a62d-d7091fafd3b0,"Custom Gateway Software 1.3.2, Log4j 2.14.1",C,"Log4j, DNP3",,"Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A",C N/A,"Log4j 2.14.1, DNP3 1.0.1"
+978aff94-8f7e-41c6-9663-ffe7e0789173,Safety Control Software 3.2.8,"Python, PowerShell",Paramiko,,Safety Control Software 3.2.8 N/A,"Python N/A, PowerShell N/A",Paramiko 2.8.0
+fdbbbb8b-96f4-4179-8180-680e1f65f52f,"RTU Control Software 6.3.1, Log4j 2.14.1","Python, PowerShell",Embedded Libraries,Protocol Buffers,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","Python N/A, PowerShell N/A",Embedded Libraries N/A
+87cf64dd-9843-49c8-91a8-6755553a23ed,"OpenVPN 2.5.1, Log4j 2.14.1",Shell Script,"Log4j, DNP3",,"OpenVPN 2.5.1 N/A, Log4j 2.14.1 N/A",Shell Script N/A,"Log4j 2.14.1, DNP3 1.0.1"
+435ac09b-98b9-4a92-b2a0-255c51af44e9,"HMI Software 4.8.0, Log4j 2.14.1",Ladder Logic,Matplotlib,,"HMI Software 4.8.0 N/A, Log4j 2.14.1 N/A",Ladder Logic N/A,Matplotlib 3.4.3
+f0e94164-62aa-4148-9736-779f6150a2f6,"Remote Access Tools 1.0.0, Log4j 2.14.1","Java, SQL",RTOS Libraries,,"Remote Access Tools 1.0.0 N/A, Log4j 2.14.1 N/A","Java N/A, SQL N/A",RTOS Libraries N/A
+e0b0643a-837c-4240-b953-377166ee41cd,IED Control Software 2.1.7,"Python, PowerShell",Embedded Libraries,,IED Control Software 2.1.7 N/A,"Python N/A, PowerShell N/A",Embedded Libraries N/A
+1ecb477c-815c-42ff-8c30-10bf6877a579,Safety Control Software 3.2.8,C,Modbus Libraries,"mod_ssl, mod_rewrite",Safety Control Software 3.2.8 N/A,C N/A,Modbus Libraries 1.2.2
+dc26767d-5b27-4c22-8d6a-2a80c3aab55e,"Apache HTTP Server 2.4.48, Log4j 2.14.1, MySQL 8.0.25",Embedded C,IOS Libraries,Embedded Extensions,"Apache HTTP Server 2.4.48 N/A, Log4j 2.14.1 N/A, MySQL 8.0.25 N/A",Embedded C N/A,IOS Libraries 5.4.0
+7445c3b7-d87a-45f8-9562-6394d396ffca,Router Firmware 12.4,"C, Python","Log4j, Protocol Buffers",RTOS Extensions,Router Firmware 12.4 N/A,"C N/A, Python N/A","Log4j 2.14.1, Protocol Buffers 3.15.8"
+517ba7bd-1a3e-45c3-8f4b-9c0afd3a7ff9,"Apache HTTP Server 2.4.48, Log4j 2.14.1, MySQL 8.0.25","C#, VBScript",Modbus Libraries,Protocol Buffers,"Apache HTTP Server 2.4.48 N/A, Log4j 2.14.1 N/A, MySQL 8.0.25 N/A","C# N/A, VBScript N/A",Modbus Libraries 1.2.2
+db2fe8f5-e3bf-459f-99a6-6aa713580778,Field I/O Firmware 4.2.1,"Java, Python",OpenSSL,Protocol Buffers,Field I/O Firmware 4.2.1 N/A,"Java N/A, Python N/A",OpenSSL 1.1.1k
+c27b1c0e-3b34-461f-bcaa-618be78f42ce,"Custom Gateway Software 1.3.2, Log4j 2.14.1","Python, PowerShell","Log4j, JDBC",RTOS Extensions,"Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A","Python N/A, PowerShell N/A","Log4j 2.14.1, JDBC 8.0.25"
+47c20e26-8ca7-41d7-9262-f84ed9779cad,"HMI Software 4.8.0, Log4j 2.14.1","C, Python","Log4j, DNP3",Protocol Buffers,"HMI Software 4.8.0 N/A, Log4j 2.14.1 N/A","C N/A, Python N/A","Log4j 2.14.1, DNP3 1.0.1"
+4c3d715e-04f4-4706-8e14-c13520e1d613,"Engineering Software 10.3.4, Log4j 2.14.1",C,OpenSSL,Embedded Extensions,"Engineering Software 10.3.4 N/A, Log4j 2.14.1 N/A",C N/A,OpenSSL 1.1.1k
+86159c0d-12bd-4f3f-a669-2a71e7550cc9,"RTU Control Software 6.3.1, Log4j 2.14.1","C#, Python",Paramiko,,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","C# N/A, Python N/A",Paramiko 2.8.0
+6201da58-075a-44f7-bef3-6beb06fd6666,"Remote Access Tools 1.0.0, Log4j 2.14.1",C,"Log4j, JDBC",Embedded Extensions,"Remote Access Tools 1.0.0 N/A, Log4j 2.14.1 N/A",C N/A,"Log4j 2.14.1, JDBC 8.0.25"
+5183b416-b15c-41e3-a004-ee4b41d9f623,"Engineering Software 10.3.4, Log4j 2.14.1","Java, Python",Paramiko,"mod_ssl, mod_rewrite","Engineering Software 10.3.4 N/A, Log4j 2.14.1 N/A","Java N/A, Python N/A",Paramiko 2.8.0
+9282d525-d22b-4a29-bb1c-815aaf43af94,Safety Control Software 3.2.8,"Java, Python","Log4j, Spring Framework",,Safety Control Software 3.2.8 N/A,"Java N/A, Python N/A","Log4j 2.14.1, Spring Framework 5.3.8"
+aebfda6f-f162-426d-afa0-206896888c42,"HMI Software 4.8.0, Log4j 2.14.1","Python, PowerShell",Embedded Libraries,Protocol Buffers,"HMI Software 4.8.0 N/A, Log4j 2.14.1 N/A","Python N/A, PowerShell N/A",Embedded Libraries N/A
+7aaa6b3b-faec-4ffa-a7ba-5333891b90eb,"Apache HTTP Server 2.4.48, Log4j 2.14.1, MySQL 8.0.25",Shell Script,"Log4j, Protocol Buffers",Embedded Extensions,"Apache HTTP Server 2.4.48 N/A, Log4j 2.14.1 N/A, MySQL 8.0.25 N/A",Shell Script N/A,"Log4j 2.14.1, Protocol Buffers 3.15.8"
+7f429ea3-f1f0-4d2e-a093-49670a7d6757,"HMI Software 4.8.0, Log4j 2.14.1","Python, PowerShell","Log4j, DNP3",,"HMI Software 4.8.0 N/A, Log4j 2.14.1 N/A","Python N/A, PowerShell N/A","Log4j 2.14.1, DNP3 1.0.1"
+1facd944-a56f-4320-ad1f-fbc039452ea9,IED Control Software 2.1.7,"Java, Python","Log4j, DNP3",,IED Control Software 2.1.7 N/A,"Java N/A, Python N/A","Log4j 2.14.1, DNP3 1.0.1"
+8c1e1ac0-c991-4695-86f8-4afccdf19748,"Apache HTTP Server 2.4.48, Log4j 2.14.1, MySQL 8.0.25","Java, SQL","Log4j, DNP3",,"Apache HTTP Server 2.4.48 N/A, Log4j 2.14.1 N/A, MySQL 8.0.25 N/A","Java N/A, SQL N/A","Log4j 2.14.1, DNP3 1.0.1"
+1c910781-35ba-44b3-a44e-50865cb4f7b1,"Engineering Software 10.3.4, Log4j 2.14.1",C,Safety Libraries,"mod_ssl, mod_rewrite","Engineering Software 10.3.4 N/A, Log4j 2.14.1 N/A",C N/A,Safety Libraries 6.5.0
+b491ecb7-64de-439b-8d25-a64b4160db45,PLC Control Logic 1.5.3,"Java, SQL","Log4j, JDBC",RTOS Extensions,PLC Control Logic 1.5.3 N/A,"Java N/A, SQL N/A","Log4j 2.14.1, JDBC 8.0.25"
+26819d12-d06b-478f-820f-4cd1ec572af4,IED Control Software 2.1.7,"Java, Python","Log4j, Protocol Buffers",,IED Control Software 2.1.7 N/A,"Java N/A, Python N/A","Log4j 2.14.1, Protocol Buffers 3.15.8"
+5e4c9a85-bdfd-4b1a-9579-04950d51d259,"OpenVPN 2.5.1, Log4j 2.14.1","C#, Python","Log4j, Spring Framework",,"OpenVPN 2.5.1 N/A, Log4j 2.14.1 N/A","C# N/A, Python N/A","Log4j 2.14.1, Spring Framework 5.3.8"
+6c48b40d-d05e-4e39-9d00-f37a159afe5e,"Custom Gateway Software 1.3.2, Log4j 2.14.1",Embedded C,Paramiko,"mod_ssl, mod_rewrite","Custom Gateway Software 1.3.2 N/A, Log4j 2.14.1 N/A",Embedded C N/A,Paramiko 2.8.0
+f382c57a-31df-49af-8233-b02790f27c91,"SCADA System 3.1.4, Log4j 2.14.1",Embedded C,Matplotlib,RTOS Extensions,"SCADA System 3.1.4 N/A, Log4j 2.14.1 N/A",Embedded C N/A,Matplotlib 3.4.3
+7a78e8f7-74b3-4ad1-9839-20ce50a0651a,"SCADA System 3.1.4, Log4j 2.14.1",Shell Script,Matplotlib,,"SCADA System 3.1.4 N/A, Log4j 2.14.1 N/A",Shell Script N/A,Matplotlib 3.4.3
+4557c810-0809-4f0b-be5d-d25444942ccd,"HMI Software 4.8.0, Log4j 2.14.1","Java, Python",Matplotlib,,"HMI Software 4.8.0 N/A, Log4j 2.14.1 N/A","Java N/A, Python N/A",Matplotlib 3.4.3
+f6ab1ed9-3040-4ce3-8375-bd2f354cbedd,"SCADA System 3.1.4, Log4j 2.14.1","Java, Python",Safety Libraries,,"SCADA System 3.1.4 N/A, Log4j 2.14.1 N/A","Java N/A, Python N/A",Safety Libraries 6.5.0
+cfea8118-bcf7-4286-b308-aeababcf375f,"Apache HTTP Server 2.4.48, Log4j 2.14.1, MySQL 8.0.25","C#, VBScript",.NET Framework,RTOS Extensions,"Apache HTTP Server 2.4.48 N/A, Log4j 2.14.1 N/A, MySQL 8.0.25 N/A","C# N/A, VBScript N/A",.NET Framework 4.8
+3c27d27b-ff7d-4993-9ab4-346bad950f7d,IED Control Software 2.1.7,"C#, Python","Log4j, Protocol Buffers",Embedded Extensions,IED Control Software 2.1.7 N/A,"C# N/A, Python N/A","Log4j 2.14.1, Protocol Buffers 3.15.8"
+7f5e8945-3644-40f7-ab48-6424427596df,"SCADA System 3.1.4, Log4j 2.14.1","C#, Python","Log4j, Protocol Buffers",,"SCADA System 3.1.4 N/A, Log4j 2.14.1 N/A","C# N/A, Python N/A","Log4j 2.14.1, Protocol Buffers 3.15.8"
+d0a6b09b-7a8d-4ab7-b81d-b8a978eb8bb9,"RTU Control Software 6.3.1, Log4j 2.14.1","C, Python","Log4j, JDBC",,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","C N/A, Python N/A","Log4j 2.14.1, JDBC 8.0.25"
+cf37cef9-a984-4621-96ce-4fe5352aa7c0,IED Control Software 2.1.7,"Python, PowerShell",Safety Libraries,"mod_ssl, mod_rewrite",IED Control Software 2.1.7 N/A,"Python N/A, PowerShell N/A",Safety Libraries 6.5.0
+17199dec-b024-4fd9-a060-222e2bed2127,Router Firmware 12.4,"Java, SQL",Modbus Libraries,,Router Firmware 12.4 N/A,"Java N/A, SQL N/A",Modbus Libraries 1.2.2
+1734e03e-c8e0-4e83-9169-f661a759b415,"OpenVPN 2.5.1, Log4j 2.14.1","C#, VBScript","Log4j, Spring Framework","mod_ssl, mod_rewrite","OpenVPN 2.5.1 N/A, Log4j 2.14.1 N/A","C# N/A, VBScript N/A","Log4j 2.14.1, Spring Framework 5.3.8"
+d893dc1c-a761-4337-a79a-8a00aa6b7873,PLC Control Logic 1.5.3,C,.NET Framework,"mod_ssl, mod_rewrite",PLC Control Logic 1.5.3 N/A,C N/A,.NET Framework 4.8
+d1360e38-9ae5-47a1-9250-75996a1bd464,IED Control Software 2.1.7,"Python, PowerShell",Safety Libraries,"mod_ssl, mod_rewrite",IED Control Software 2.1.7 N/A,"Python N/A, PowerShell N/A",Safety Libraries 6.5.0
+f9e5b424-d39b-4f66-9bce-6ebe4a7ceb45,Router Firmware 12.4,"C, Python",RTOS Libraries,Protocol Buffers,Router Firmware 12.4 N/A,"C N/A, Python N/A",RTOS Libraries N/A
+b607934a-143b-4ede-8ede-0c7252e1d76f,"HMI Software 4.8.0, Log4j 2.14.1","Java, Python","Log4j, JDBC",,"HMI Software 4.8.0 N/A, Log4j 2.14.1 N/A","Java N/A, Python N/A","Log4j 2.14.1, JDBC 8.0.25"
+25205716-62e0-4673-8ccf-8943fc2a5f1f,"HMI Software 4.8.0, Log4j 2.14.1","C#, VBScript",Matplotlib,Protocol Buffers,"HMI Software 4.8.0 N/A, Log4j 2.14.1 N/A","C# N/A, VBScript N/A",Matplotlib 3.4.3
+2a03d829-1def-4aaf-97f2-80ac4c5f5144,"RTU Control Software 6.3.1, Log4j 2.14.1","C, Python","Log4j, Spring Framework",,"RTU Control Software 6.3.1 N/A, Log4j 2.14.1 N/A","C N/A, Python N/A","Log4j 2.14.1, Spring Framework 5.3.8"
+42f714a0-0107-4934-80e8-08017856d114,"SCADA System 3.1.4, Log4j 2.14.1","Python, PowerShell",Paramiko,,"SCADA System 3.1.4 N/A, Log4j 2.14.1 N/A","Python N/A, PowerShell N/A",Paramiko 2.8.0
