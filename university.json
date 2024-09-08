@@ -1,0 +1,245 @@
+{
+  "type": "bundle",
+  "id": "bundle--5a888e3c-46c2-4b8b-80db-d781e67197c6",
+  "spec_version": "2.1",
+  "created": "2024-07-09T20:06:59.021Z",
+  "modified": "2024-07-09T20:06:59.021Z",
+  "objects": [
+    {
+      "type": "extension-definition",
+      "id": "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4",
+      "spec_version": "2.1",
+      "created": "2022-08-02T19:34:35.143Z",
+      "modified": "2022-08-02T19:34:35.143Z",
+      "name": "Attack Flow",
+      "description": "Extends STIX 2.1 with features to create Attack Flows.",
+      "created_by_ref": "identity--fb9c968a-745b-4ade-9b25-c324172197f4",
+      "schema": "https://center-for-threat-informed-defense.github.io/attack-flow/stix/attack-flow-schema-2.0.0.json",
+      "version": "2.0.0",
+      "extension_types": ["new-sdo"],
+      "external_references": [
+        {
+          "source_name": "Documentation",
+          "description": "Documentation for Attack Flow",
+          "url": "https://center-for-threat-informed-defense.github.io/attack-flow"
+        },
+        {
+          "source_name": "GitHub",
+          "description": "Source code repository for Attack Flow",
+          "url": "https://github.com/center-for-threat-informed-defense/attack-flow"
+        }
+      ]
+    },
+    {
+      "type": "identity",
+      "id": "identity--fb9c968a-745b-4ade-9b25-c324172197f4",
+      "spec_version": "2.1",
+      "created": "2022-08-02T19:34:35.143Z",
+      "modified": "2022-08-02T19:34:35.143Z",
+      "created_by_ref": "identity--fb9c968a-745b-4ade-9b25-c324172197f4",
+      "name": "MITRE Engenuity Center for Threat-Informed Defense",
+      "identity_class": "organization"
+    },
+    {
+      "type": "attack-flow",
+      "id": "attack-flow--dd875c61-26a9-4b8b-879e-9f00346300fd",
+      "spec_version": "2.1",
+      "created": "2022-10-27T02:44:54.520Z",
+      "modified": "2024-07-09T20:06:59.021Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "created_by_ref": "identity--cc20a977-7f05-4be9-af27-11ca75b09d90",
+      "start_refs": ["attack-action--605180eb-64d7-4f54-ae85-a1036cf2dbd3"],
+      "name": "University Attack Flow",
+      "description": "Simulated attack flow for a university network.",
+      "scope": "incident",
+      "external_references": [
+        {
+          "source_name": "Example Source",
+          "description": "Example attack flow",
+          "url": "https://example.com/attack-flow"
+        }
+      ]
+    },
+    {
+      "type": "identity",
+      "id": "identity--cc20a977-7f05-4be9-af27-11ca75b09d90",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.021Z",
+      "modified": "2024-07-09T20:06:59.021Z",
+      "name": "John Doe",
+      "contact_information": "johndoe@example.com"
+    },
+    {
+      "type": "attack-action",
+      "id": "attack-action--605180eb-64d7-4f54-ae85-a1036cf2dbd3",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.021Z",
+      "modified": "2024-07-09T20:06:59.021Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "Initial Access via Log4j Vulnerability",
+      "tactic_id": "TA0001",
+      "tactic_ref": "x-mitre-tactic--ffd5bcee-6e16-4dd2-8eca-7b3beedf33ca",
+      "technique_id": "T1190",
+      "technique_ref": "attack-pattern--1c13d587-6a5f-4b44-bab3-02e125ec278c",
+      "description": "Exploitation of Log4j vulnerability to gain initial access to the network.",
+      "asset_refs": ["attack-asset--f16ebb0d-0c67-482a-ab1e-673bb376280c"],
+      "effect_refs": ["attack-action--9f0ada89-d028-4c87-a1a4-4563705a70b3"]
+    },
+    {
+      "type": "attack-action",
+      "id": "attack-action--9f0ada89-d028-4c87-a1a4-4563705a70b3",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.021Z",
+      "modified": "2024-07-09T20:06:59.021Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "Arbitrary Code Execution",
+      "tactic_id": "TA0002",
+      "tactic_ref": "x-mitre-tactic--5569339b-94c2-49ee-afb3-2222936582c8",
+      "technique_id": "T1203",
+      "technique_ref": "attack-pattern--677199e3-6fcd-4f4e-9d7f-6b7487904d00",
+      "description": "Executing arbitrary code on the compromised server.",
+      "effect_refs": ["attack-action--3d221636-c915-4e2a-903a-e10047a1f34a"]
+    },
+    {
+      "type": "attack-action",
+      "id": "attack-action--3d221636-c915-4e2a-903a-e10047a1f34a",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.021Z",
+      "modified": "2024-07-09T20:06:59.021Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "Data Exfiltration",
+      "tactic_id": "TA0010",
+      "tactic_ref": "x-mitre-tactic--93a58c61-92e4-4af9-b54b-79f4a5a3b4d0",
+      "technique_id": "T1041",
+      "technique_ref": "attack-pattern--7846d2b1-b10b-4ee1-a10e-22d362a6b85e",
+      "description": "Exfiltrating sensitive student data from the compromised server.",
+      "effect_refs": ["attack-action--f519deb9-ffbf-4568-9c18-26313af17849"]
+    },
+    {
+      "type": "attack-action",
+      "id": "attack-action--f519deb9-ffbf-4568-9c18-26313af17849",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.021Z",
+      "modified": "2024-07-09T20:06:59.021Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "Dynamic-link Library Injection",
+      "tactic_id": "TA0005",
+      "tactic_ref": "x-mitre-tactic--78b23412-0651-46d7-a540-170a1ce8bd5a",
+      "technique_id": "T1055.001",
+      "technique_ref": "attack-pattern--f4599aa0-4f85-4a32-80ea-fc39dc965945",
+      "description": "To maintain access, the attacker injects a malicious DLL into the system process.",
+      "effect_refs": ["attack-action--fab926e5-88d8-48b4-9bf2-23aa996076d1"]
+    },
+    {
+      "type": "attack-action",
+      "id": "attack-action--fab926e5-88d8-48b4-9bf2-23aa996076d1",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.022Z",
+      "modified": "2024-07-09T20:06:59.022Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "Data Encrypted for Impact",
+      "tactic_id": "TA0040",
+      "tactic_ref": "x-mitre-tactic--5569339b-94c2-49ee-afb3-2222936582c8",
+      "technique_id": "T1486",
+      "technique_ref": "attack-pattern--b80d107d-fa0d-4b60-9684-b0433e8bdba0",
+      "description": "The attacker encrypts data to cause impact on availability and demand ransom.",
+      "effect_refs": ["attack-action--c41e27f8-e094-489b-8fee-62698f187dce"]
+    },
+    {
+      "type": "attack-action",
+      "id": "attack-action--c41e27f8-e094-489b-8fee-62698f187dce",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.022Z",
+      "modified": "2024-07-09T20:06:59.022Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "System Shutdown/Reboot",
+      "tactic_id": "TA0040",
+      "tactic_ref": "x-mitre-tactic--5569339b-94c2-49ee-afb3-2222936582c8",
+      "technique_id": "T1529",
+      "technique_ref": "attack-pattern--ff73aa03-0090-4464-83ac-f89e233c02bc",
+      "description": "System reboots, displays decoy message.",
+      "effect_refs": ["attack-action--2b64c735-0355-408c-b3a9-755772cc257c"]
+    },
+    {
+      "type": "attack-action",
+      "id": "attack-action--2b64c735-0355-408c-b3a9-755772cc257c",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.022Z",
+      "modified": "2024-07-09T20:06:59.022Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "Data Destruction",
+      "tactic_id": "TA0040",
+      "tactic_ref": "x-mitre-tactic--5569339b-94c2-49ee-afb3-2222936582c8",
+      "technique_id": "T1485",
+      "technique_ref": "attack-pattern--d45a3d09-b3cf-48f4-9f0f-f521ee5cb05c",
+      "description": "The data is permanently destroyed, making recovery difficult.",
+      "effect_refs": ["attack-action--371fe05f-e6b1-41ea-84ef-2c76f8186089"]
+    },
+    {
+      "type": "attack-action",
+      "id": "attack-action--371fe05f-e6b1-41ea-84ef-2c76f8186089",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.021Z",
+      "modified": "2024-07-09T20:06:59.021Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "Credential Dumping",
+      "tactic_id": "TA0006",
+      "tactic_ref": "x-mitre-tactic--2558fd61-8c75-4730-94c4-11926db2a263",
+      "technique_id": "T1003",
+      "technique_ref": "attack-pattern--df2b0b5f-3341-4019-9bb5-9c5d04fca88c",
+      "description": "Obtaining credentials to access further systems within the network.",
+      "effect_refs": ["attack-action--9f0ada89-d028-4c87-a1a4-4563705a70b3"]
+    },
+    {
+      "type": "attack-asset",
+      "id": "attack-asset--f16ebb0d-0c67-482a-ab1e-673bb376280c",
+      "spec_version": "2.1",
+      "created": "2024-07-09T20:06:59.021Z",
+      "modified": "2024-07-09T20:06:59.021Z",
+      "extensions": {
+        "extension-definition--fb9c968a-745b-4ade-9b25-c324172197f4": {
+          "extension_type": "new-sdo"
+        }
+      },
+      "name": "University Server",
+      "description": "Critical server in the university infrastructure running vulnerable Log4j."
+    }
+  ]
+}
+
